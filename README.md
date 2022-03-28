@@ -1,7 +1,7 @@
 ### Hi there, I'm Megan 👋
 
-[![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=memckenna)](https://github.com/memckenna/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memckenna&layout=compact)](https://github.com/memckenna/github-readme-stats)
+[![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=memckenna&hide=stars&theme=nightowl&show_icons=true)](https://github.com/memckenna/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memckenna&layout=compact&theme=nightowl)](https://github.com/memckenna/github-readme-stats)
 
 
 ### Connect with me!
